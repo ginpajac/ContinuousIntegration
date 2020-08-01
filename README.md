@@ -1,2 +1,6 @@
-# IntegracionContinuaTaller
-Taller de Integración Continua Ingeniera de Software 2 ESPOL
+# Continuous Integration Lab
+Software Engineering II
+ 
+Workshop:CONTINUOUS INTEGRATION
+Group Fenix 
+
